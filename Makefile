@@ -8,7 +8,7 @@ view: build
 build: resume.pdf
 
 clean:
-	rm -f $(NAME).pdf $(NAME).ps
+	rm -f $(NAME).pdf
 
 
 $(NAME).pdf: *.mom
