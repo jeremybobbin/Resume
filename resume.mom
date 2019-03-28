@@ -27,21 +27,25 @@ Site: \*[UL]jer.cx\*[ULX]
 \*[UL]github.com/jeremybobbin\*[ULX]
 .TQ
 .MCX
-.RLD 0.1i
-.DRH 0.8 0.25i 6.75i
 \#
 \# End of TOP
 \#
-.ALD 0.6i
+.ALD 0.1i
 .CENTER
 Objective
 .RLD 0.2i
 .DRH 0.8 0.25i 6.75i
 .LEFT
 .ALD 0.4i
-.PP
-I want to work in a company comprised of individuals with whom I can share a passion for automating solutions through the use of highly extensible tools.
 .L_MARGIN 1i
+.IL 2P
+I want to work in a company comprised of individuals with
+.IQ
+.BR
+whom I can share a passion for automating solutions through
+.BR
+the use of highly extensible tools.
+.ALD 0.2i
 .PAGE 8.5i 11i 0.5i 0.5i 0 1i
 .CENTER
 Projects
