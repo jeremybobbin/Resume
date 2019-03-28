@@ -1,6 +1,7 @@
 .PRINTSTYLE TYPEWRITE
 .FAMILY	T
-.PAGE 8.5i 11i 0.5i 0.5i 0 1i
+.PAGE 8.5i 11i 0.5i 0.5i 0 0.5i
+.FOOTER_MARGIN 0
 .PDF_TITLE "Resume"
 \#
 \# remove mom bloat

@@ -60,10 +60,11 @@ Vim-inspired terminal filebrowser written in Rust
 .ITEM
 Resume written in GNU Troff(Groff)
 .ITEM
-SMTP, IMAP, HTTPS and SSH server: \*[UL]www.jer.xc\*[ULX]
+SMTP, IMAP, HTTP and SSH server: \*[UL]www.jer.xc\*[ULX]
 .LIST OFF
 .PAGE 8.5i 11i 0.5i 0.5i 0 1i
 \# Skills
+.ALD 0.1i
 .CENTER
 Skills
 .RLD 0.2i
@@ -92,8 +93,6 @@ Rust
 JavaScript
 .ITEM
 HTML & CSS
-.ITEM
-SQL
 .LIST OFF
 .MCR
 \# 
@@ -109,9 +108,7 @@ Git
 .ITEM
 SSH
 .ITEM
-Sed & Awk
-.ITEM
-GNU Make
+Coreutils
 .LIST OFF
 .MCR
 \# 
@@ -128,8 +125,6 @@ SSH
 Postfix
 .ITEM
 MariaDB
-.ITEM
-systemd
 .LIST OFF
 .MCR
 \# 
@@ -159,7 +154,7 @@ Debian
 \#
 \#
 .CENTER
-Certifications & Education
+Certifications, Education & Experience
 .RLD 0.2i
 .DRH 0.8 0.25i 6.75i
 .LEFT
@@ -169,5 +164,7 @@ Certifications & Education
 .ITEM
 LPI Certified \*[UL]LPIC-1: Linux Administrator\*[ULX] | Mar '19 - Mar '24
 .ITEM
-High School Diploma | Olympia Highschool | Orlando, FL | 2016
+\*[UL]Clerk/Cashier\*[ULX] | CVS | Los Angeles, CA | Apr '16 - Dec '16
+.ITEM
+\*[UL]High School Diploma\*[ULX] | Olympia Highschool | Orlando, FL | 2016
 .PAGE 8.5i 11i 0.5i 0.5i 0 1i
