@@ -23,7 +23,7 @@ Bend, OR 97703
 Email: \*[UL]jer@jer.cx\*[ULX] 
 .BR
 Mobile: 407 467 7931
-Personal Site: \*[UL]jer.cx\*[ULX]
+Site: \*[UL]jer.cx\*[ULX]
 \*[UL]github.com/jeremybobbin\*[ULX]
 .TQ
 .MCX
@@ -34,7 +34,18 @@ Personal Site: \*[UL]jer.cx\*[ULX]
 \#
 .ALD 0.6i
 .CENTER
+Objective
+.RLD 0.2i
+.DRH 0.8 0.25i 6.75i
+.LEFT
+.ALD 0.4i
+.PP
+I want to work in a company comprised of individuals with whom I can share a passion for automating solutions through the use of highly extensible tools.
+.L_MARGIN 1i
+.PAGE 8.5i 11i 0.5i 0.5i 0 1i
+.CENTER
 Projects
+.RLD 0.2i
 .DRH 0.8 0.25i 6.75i
 
 .L_MARGIN 1i
@@ -44,11 +55,14 @@ Projects
 Vim-inspired terminal filebrowser written in Rust
 .ITEM
 Resume written in GNU Troff(Groff)
+.ITEM
+SMTP, IMAP, HTTPS and SSH server: \*[UL]www.jer.xc\*[ULX]
 .LIST OFF
-
 .PAGE 8.5i 11i 0.5i 0.5i 0 1i
+\# Skills
 .CENTER
 Skills
+.RLD 0.2i
 .DRH 0.8 0.25i 6.75i
 .ALD .4i
 \# 
@@ -69,9 +83,9 @@ Skills
 .ITEM
 Bash
 .ITEM
-JavaScript
-.ITEM
 Rust
+.ITEM
+JavaScript
 .ITEM
 HTML & CSS
 .ITEM
@@ -109,9 +123,9 @@ SSH
 .ITEM
 Postfix
 .ITEM
-systemd
-.ITEM
 MariaDB
+.ITEM
+systemd
 .LIST OFF
 .MCR
 \# 
@@ -135,8 +149,21 @@ Debian
 .MCX
 
 .PAGE 8.5i 11i 0.5i 0.5i 0 1i
+\#
+\#
+\# Certs & Edu
+\#
+\#
 .CENTER
-Certifications
+Certifications & Education
+.RLD 0.2i
 .DRH 0.8 0.25i 6.75i
-.LS 16
-
+.LEFT
+.ALD 0.4i
+.L_MARGIN 1i
+.LIST BULLET
+.ITEM
+LPI Certified \*[UL]LPIC-1: Linux Administrator\*[ULX] | Mar '19 - Mar '24
+.ITEM
+High School Diploma | Olympia Highschool | Orlando, FL | 2016
+.PAGE 8.5i 11i 0.5i 0.5i 0 1i
