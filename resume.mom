@@ -1,0 +1,142 @@
+.INCLUDE meta.mom
+.INCLUDE styles.mom
+.START
+\#
+.RLD .75i
+.DBX .5  -0.25i 7.75i 11i
+.ALD .5i
+.MCO
+.TAB_SET 1 0.25i 1.25i L
+.TAB_SET 2 4i 3i R
+.TAB 1
+\#
+\# Top 
+\#
+Jeremy Bobbin
+Junior Unix Admin
+610 NW Colorado Ave
+.BR
+Bend, OR 97703
+.MCR
+.TAB 2
+.BR
+Email: \*[UL]jer@jer.cx\*[ULX] 
+.BR
+Mobile: 407 467 7931
+Personal Site: \*[UL]jer.cx\*[ULX]
+\*[UL]github.com/jeremybobbin\*[ULX]
+.TQ
+.MCX
+.RLD 0.1i
+.DRH 0.8 0.25i 6.75i
+\#
+\# End of TOP
+\#
+.ALD 0.6i
+.CENTER
+Projects
+.DRH 0.8 0.25i 6.75i
+
+.L_MARGIN 1i
+.LEFT
+.LIST BULLET
+.ITEM
+Vim-inspired terminal filebrowser written in Rust
+.ITEM
+Resume written in GNU Troff(Groff)
+.LIST OFF
+
+.PAGE 8.5i 11i 0.5i 0.5i 0 1i
+.CENTER
+Skills
+.DRH 0.8 0.25i 6.75i
+.ALD .4i
+\# 
+\# Skills table init
+\#
+.L_MARGIN 1i
+.TAB_SET 1 0i 1.75i L
+.TAB_SET 2 1.75i 1.75i L
+.TAB_SET 3 3.5i 1.75i L
+.TAB_SET 4 5.25i 1.75i L 
+.MCO
+\# 
+\# Languages
+\#
+.TAB 1
+.LIST BULLET
+.UNDERSCORE Languages
+.ITEM
+Bash
+.ITEM
+JavaScript
+.ITEM
+Rust
+.ITEM
+HTML & CSS
+.ITEM
+SQL
+.LIST OFF
+.MCR
+\# 
+\# Tools
+\#
+.TAB 2
+.UNDERSCORE Tools
+.LIST BULLET
+.ITEM
+Vim
+.ITEM
+Git
+.ITEM
+SSH
+.ITEM
+Sed & Awk
+.ITEM
+GNU Make
+.LIST OFF
+.MCR
+\# 
+\# Daemons
+\#
+.TAB 3
+.UNDERSCORE Services
+.LIST BULLET
+.ITEM
+Cron
+.ITEM
+SSH
+.ITEM
+Postfix
+.ITEM
+systemd
+.ITEM
+MariaDB
+.LIST OFF
+.MCR
+\# 
+\# DBs
+\#
+.TAB 4
+.UNDERSCORE Platforms
+.LIST BULLET
+.ITEM
+Arch
+.ITEM
+CentOS
+.ITEM
+Debian
+.LIST OFF
+.MCR
+\#
+\# Skills table deinit
+\#
+.TQ
+.MCX
+
+.PAGE 8.5i 11i 0.5i 0.5i 0 1i
+.CENTER
+Certifications
+.DRH 0.8 0.25i 6.75i
+.LS 16
+
