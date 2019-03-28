@@ -93,6 +93,8 @@ Rust
 JavaScript
 .ITEM
 HTML & CSS
+.ITEM
+SQL
 .LIST OFF
 .MCR
 \# 
@@ -108,7 +110,9 @@ Git
 .ITEM
 SSH
 .ITEM
-Coreutils
+GNU Make
+.ITEM
+Sed & Awk
 .LIST OFF
 .MCR
 \# 
@@ -125,6 +129,8 @@ SSH
 Postfix
 .ITEM
 MariaDB
+.ITEM
+systemd
 .LIST OFF
 .MCR
 \# 
